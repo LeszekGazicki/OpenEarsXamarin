@@ -1,0 +1,7 @@
+*.dll
+OpenEarsBinding/OpenEarsBinding/obj
+OpenEarsTest/iOS/bin
+OpenEarsTest/iOS/obj
+OpenEarsTest/OpenEarsTest/bin
+OpenEarsTest/OpenEarsTest/obj
+OpenEarsTest/Droid/obj
